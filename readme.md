@@ -16,7 +16,7 @@ Merci de spécifier votre choix de niveau en commentaire de l'exercice, et faît
 - Une phrase pour expliciter le résultat. Exemple : au lieu d'avoir "*votre résultat*" sans aucune info supplémentaire, favorisez une sortie du style "le nombre de fruit est " "*votre résultat*".
 - Pour ceux qui ont vraiment rien à faire ce week-end, vous pouvez même styliser votre page avec du CSS (rendu profesionnel et sobre SVP, pas de mauvais goût, ce challenge peut finir dans votre portfolio pro).
 
-La réponse attendus pour chaque exercice est une fonction, recevant en paramètre d'entrée un tableau.
+La réponse attendue pour chaque exercice est une fonction, recevant en paramètre d'entrée un tableau.
 Exemple : 
 ```
     function getLongestItem(Array $tab){
@@ -50,7 +50,7 @@ $tags : ["horreur", "fantastique", "action", "western", etc...]
 
 Un algo pour faire ressortir les deux derniers éléments d'un tableau dans un nouveau tableau
 
-Tableau formateur : 
+Tableau formateur :   
 $fruits : ["orange", "banane", "pomme", "fraise", "tomate", "framboise", "noix de coco", "ananas"];
 
 Exemple de rendu :  
@@ -71,7 +71,7 @@ $prenoms : ["Harry", "Hilary", "Hagrid", "Holmes"];
 Un algo pour trouver la chaine de caractères la plus longue d'un tableau
 
 Tableau formateur :  
-$phrase : ["ah...", "encore un beau dimanche", "de perdu", "cloitré chez", "vous", "à coder", ",mais", " vous avez signé pour ça pas vrais ?", "alors courage !"];
+$phrase : ["ah...", "encore un beau dimanche", "de perdu", "cloîtré chez", "vous", "à coder", ",mais", " vous avez signé pour ça pas vrai ?", "alors courage !"];
 
 Exemple de rendu :  
 $plus_longue_phrase : " vous avez signé pour ça pas vrais ?"
@@ -88,7 +88,7 @@ $portables : ["+33612459623", "+33645896235", "+33678145263", "+33647895263", "+
 
 ## Exercice 7 (le bourreau du week-end)
 
-Un algo pour trouver le nombre d'occurence d'une lettre dans un tableau 
+Un algo pour trouver le nombre d'occurrence d'une lettre dans un tableau 
 
 Tableau formateur :  
 $sadisme : ["haha", "hehe", "j'aime mon travail", "une vraie joie", "je changerai pour rien au monde", "hhhhhhhh", "have fun !"];

@@ -3,6 +3,7 @@
 Le but de ce challenge est de vous faire travailler les tableaux et les différents méthodes communément utilisées lorsque vous travaillez avec ceux-ci.
 
 Tous les exercices ici présents ont 3 niveaux de difficultés :
+
 - **1er niveau** : Vous choississez les valeurs du ou des tableaux. Chaque tableau compte 2 à 3 valeurs.
 - **2ème niveau** : Les tableaux sont créés par nous (mis au début de l'exercice). Vous avez moins de marge de manoeuvre et des pièges peuvent être glissés dans les tableaux.
 - **3ème niveau**: Les utilisateurs peuvent rentrer les valeurs au choix. Attention, nous chercherons volontairement les cas particuliers si vous faîtes le choix de ce niveau difficulté. Imaginez que votre code passe au peloton d'éxecution par la suite, alors soyez sûr de qu'il soit à l'épreuve des balles lorsque vous rendez, #unit_testing.

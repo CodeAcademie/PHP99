@@ -11,7 +11,7 @@
 				array_push($commande,$viande." ".$cuisson); 
 			}
 		}
-		return $res;
+		return $commande;
 	}
 	
 	/**

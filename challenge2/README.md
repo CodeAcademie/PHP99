@@ -11,8 +11,17 @@ $ phpunit *test.php --verbose
 ```
 
 http://www.commitstrip.com/fr/2016/02/22/when-the-functional-tests-are-all-red/
+## Instructions
+Depending of your Operating System, configure your phpunit.
 
 
-Realise the following exercices : isogram and pangram
+Choose the following Level depending on your algorithm greediness.
+
+## Level 1
+Realise the exercices in  loop
+## Level 2 
+Realise the following exercices : caesar and folders
+## Level 3
+Realise the following exercices : isogram, folders and pangram
 
 
